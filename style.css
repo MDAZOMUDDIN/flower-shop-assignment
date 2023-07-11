@@ -1,0 +1,68 @@
+.disp{
+    display: flex;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.kayem{
+    padding: 50px 40px;
+
+}
+.butt{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+}
+.sayem{
+    background-color: black;
+    text-align: center;
+    padding: 40px 150px;
+    margin-top: 20px;
+}
+.flo{
+    color: aliceblue;
+}
+.sho{
+    color: bisque;
+}
+.red{
+    color: white;
+}
+.email{
+    color: rgba(255, 255, 255, 0.719);
+}
+.law{
+    display: flex;
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    margin: 10px;
+}
+.hope{
+    padding: 6px 7px;
+    background-color: orchid;
+    color: aliceblue;
+    border: 0px;
+    border-radius: 5px;
+}
+.sabbir{
+    display: flex; 
+    background-color: antiquewhite;
+    margin: 10px 40px 10px 10px;
+
+}
+.shovo{
+    text-align: center;
+
+}
+.hasib{
+    display: flex;
+    gap: 0px;
+}
+.asura{
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 5px 0px;
+    row-gap: 0px;
+}

@@ -47,22 +47,58 @@
     border-radius: 5px;
 }
 .sabbir{
-    display: flex; 
-    background-color: antiquewhite;
-    margin: 10px 40px 10px 10px;
+    background-color: white;
+    margin: 10px;
 
 }
-.shovo{
-    text-align: center;
 
-}
 .hasib{
     display: flex;
-    gap: 0px;
 }
-.asura{
-    border: 5px;
+.sovon{
+    text-align: center;
+}
+.arif{
+    display: flex;
+}
+.adib{
+    margin: 5px;
+    background-color:white;
+}
+.adnan{
+    text-align: center;
+}
+.asif{
+    text-align: center;
+}
+.sana{
+    display: flex;
+    background-color: bisque;
+    padding: 0px 20px 0px 10px;
+}
+.none{
+    text-decoration: none;
+    color: black;
+}
+.lili{
+    text-align: center;
+}
+.komola{
+    text-align: center;
+    font-size: smaller;
+    
+}
+.maty{
+    padding: 100px;
+    background-image: url('Rectangle\ 9.png');
+    padding: 40px;
+}
+.meftaul{
+    text-align: center;
+}
+.mati{
+    background-color: black;
+    color: white;
+    border: none;
     border-radius: 5px;
-    box-shadow: 0px 10px 5px 0px;
-    row-gap: 0px;
 }
